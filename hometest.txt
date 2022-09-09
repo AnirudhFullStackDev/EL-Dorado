@@ -1,2 +1,2 @@
 testing git in home
-secondl line is added
+secondl line is added 
