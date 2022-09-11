@@ -1,4 +1,3 @@
 # EL-Dorado
 
-Changes Done in master branch only now
-now
+Changes Done in EL-DORADO
