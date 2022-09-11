@@ -3,5 +3,15 @@ $ git log ..origin/main
 // after seeing changes 
 $ git checkout main
 $ git merge origin/main$ git fetch  
-$ git log ..origin/main
+$ git log ..origin/Imagine in a file "A" changes was made in remote repo and in the same file changes was made locally, when tried to push, conflict occurs:
+so 
+$ git fetch
+$ git log ..origin/main  // to see the changes.
+$ git merge
+$ git status  // will give info
+// open the respective file
+//make changes
+$ git add .
+$ git commit -m "commit message"
+$ git push
 // after 
