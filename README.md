@@ -1,6 +1,3 @@
 # EL-Dorado
 
-Changes Done in master branch in Evening
-
-
-Changes Done in EL-DORADO
+Changes Done in master using kalashnikavo in the Eve
