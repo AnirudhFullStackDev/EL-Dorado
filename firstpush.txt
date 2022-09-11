@@ -1,3 +1,1 @@
-
-
-sfsdfsThis first file is been changed for git fetch
+This first file is been changed for git fetch
