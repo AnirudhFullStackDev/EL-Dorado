@@ -1,9 +1,5 @@
 
-this is third change
-<<<<<<< HEAD
-this is second change
-this is second change
-this is second change
-=======
+this is third chandfsdf
+sdfsdkfsd
 
->>>>>>> refs/remotes/origin/main
+sdfsdfksdfsd
