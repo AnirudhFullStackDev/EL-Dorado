@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-mine 2
-mine 3
-=======
-mine 1
->>>>>>> refs/remotes/origin/main
-dfgdfdfd
+mine number 10 
+sector 4.9
