@@ -4,3 +4,10 @@ this is second change
 this is second change
 this is second chang
 
+<<<<<<< HEAD
+=======
+this is third chandfsdf
+sdfsdkfsd
+
+sdfsdfksdfsd
+>>>>>>> refs/remotes/origin/main
