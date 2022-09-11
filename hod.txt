@@ -4,10 +4,4 @@ $ git log ..origin/main
 $ git checkout main
 $ git merge origin/main$ git fetch  
 $ git log ..origin/main
-// after seeing changes 
-$ git checkout main
-$ git merge origin/main$ git fetch  
-$ git log ..origin/main
-// after seeing changes 
-$ git checkout main
-$ git merge origin/main
+// after 
